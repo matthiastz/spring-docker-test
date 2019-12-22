@@ -1,6 +1,9 @@
 https://spring.io/guides/gs/spring-boot-docker/#scratch
+
 https://spring.io/guides/gs/gradle/
+
 https://sdkman.io/
+
 https://gradle.org/install/
 
 # change default port 
